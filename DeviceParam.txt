@@ -1,0 +1,24 @@
+{
+    设备Id   "DeviceID"                 // 8615
+    CI名称   "CI"                       // C-(TM-C2BM-CF1M2-25)-UPS1(28B-1)
+    设备名称  "DeviceName"               // C-(TM-C2BM-CF1M2-25)-UPS1(28B-1)
+    专业     "Major"                    // 电力
+    设备类型  "DeviceType"               // 三相UPS
+    设备型号  "UnitType"               // HIPULSEU400
+    品牌名称  "BrandName"                // 艾默生
+    序列号    "SerialNumber"             // 9323023 
+    分组名称  "GroupName"                // g0001
+    区域     "Area"                     // DXH
+    楼栋     "Building”                 // 生产楼C
+    楼层     "Storey"                   // 生产楼C-2B
+    房间     "Room"                     // 生产楼C-2B-C2B232(C南高跨ECC配电室)
+    机柜     "EquipmentCabine"          // --
+    机列     "EquipmentCabineColumn"    // --
+    设备状态  "DeviceState"              // 使用中
+    是否监控  "Monitoring"               // 已监控
+    上级设备  "ParentDevice"             // --
+    备注     "Comment"                  // --
+    资产编号  "AssetNumber"              // --
+    生产日期  "ProductionDate"           // 2019-10-9 10:10:10
+    启用日期  "EnableDate"               // 2020-10-9 10:10:10
+}

@@ -1,0 +1,26 @@
+[
+    {
+    "DeviceID":"8615",
+    "CI":"C-(TM-C2BM-CF1M2-25)-UPS1(28B-1)",
+    "DeviceName":"C-(TM-C2BM-CF1M2-25)-UPS1(28B-1)",
+    "Major":"电力",
+    "DeviceType":"三相UPS",
+    "UnitType":"HIPULSEU400",
+    "BrandName":"艾默生",
+    "SerialNumber":"9323023",
+    "GroupName":"g0001",
+    "Area":"DXH",
+    "Building":"生产楼C",
+    "Storey" :"生产楼C-2B",
+    "Room":"生产楼C-2B-C2B232(C南高跨ECC配电室)",
+    "EquipmentCabine":"--",
+    "EquipmentCabineColumn":"--",
+    "DeviceState":"使用中",
+    "Monitoring":"已监控",
+    "ParentDevice":"--",
+    "Comment":"--",
+    "AssetNumber":"--",
+    "ProductionDate":"2019-10-9 10:10:10",
+    "EnableDate":"2020-10-9 10:10:10"
+    }
+]
